@@ -1,7 +1,11 @@
 Competitors:
+
 Rate My Professor: https://www.ratemyprofessors.com/ 
+
 r/yorku subreddit
+
 Coursedelta: https://coursedelta.yorku.dev/
+
 
 How is our product different?
 	Our product is distinct from the above competitors. Particularly, the main objective of this product is to support the user in selecting the course for their next semester. This is a tool where the user can explore their capabilities to join courses and get connected with the community. Furthermore, for each course in the degree progress, the student can access past syllabuses that are uploaded by students who have completed the course before. To make the product more active, we introduce the credit system that allows users to spend it to unlock the uploaded materials and earn by making contributions. Overall, our product is a combination of all our competitors.
